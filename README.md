@@ -10,3 +10,8 @@ I used the Moment.js library to generate date and time.
 * Users can enter their events when clicking in a time block
 * Users can save their time block entries by clicking the 'save' button, and it will be saved in their local storage
 * When the page is refreshed, the saved events remain on the page
+
+Check out the page here: [Work Day Scheduler Site](https://mteubnerfoster.github.io/work-day-scheduler/)
+
+
+![image](https://user-images.githubusercontent.com/89106290/137097637-39974e1e-9080-49f9-91c9-bcb85b811758.png)
